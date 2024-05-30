@@ -1,0 +1,26 @@
+
+‡	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(¯ùÈ‡ıÿÿÿÿ8šŠ§ë1J$25e7196d-167b-4863-bf43-855fb2a22153
+‡	php:S11317"@Remove the useless trailing whitespaces at the end of this line.(¯ùÈ‡ıÿÿÿÿ8šŠ§ë1J$c873960e-9394-4db1-9a35-666758186bb0
+~php:S105"EReplace all tab characters in this file by sequences of white-spaces.8ÅäŸë1J$caea2ce0-4de6-430a-abdb-65279da1e303
+Œphp:S103"KSplit this 125 characters long line (which is greater than 120 authorized).(òàæ8›Š§ë1J$bfe1014a-986c-4ead-b3b8-56ad33366ac2
+Œphp:S1035"KSplit this 125 characters long line (which is greater than 120 authorized).(òàæ8›Š§ë1J$84d39ec5-fa00-44b8-9e43-d920111559f3
+‘php:S103E"KSplit this 151 characters long line (which is greater than 120 authorized).(¤±è¸úÿÿÿÿ8›Š§ë1J$402fd77c-2ee6-4fb1-8646-54936af8523d
+Œphp:S103I"KSplit this 137 characters long line (which is greater than 120 authorized).(ï¤8›Š§ë1J$c7c2f87e-665e-4765-966b-1c2d5a17622b
+Œphp:S103J"KSplit this 136 characters long line (which is greater than 120 authorized).(Áá•®8›Š§ë1J$fc911c9d-13e1-430b-92cc-070b6d61d10b
+‘php:S103b"KSplit this 136 characters long line (which is greater than 120 authorized).(ËÄÿ±ûÿÿÿÿ8›Š§ë1J$051ee5fb-7856-4e47-9c92-7f037c951559
+php:S103‡"KSplit this 141 characters long line (which is greater than 120 authorized).(ˆŒª8›Š§ë1J$9b240fd0-0f56-41ac-9fdc-1c799b339796
+’php:S103§"KSplit this 143 characters long line (which is greater than 120 authorized).(òõçîşÿÿÿÿ8 „§ë1J$93609104-96ac-455f-a66c-ca1379c68fc0
+hphp:S107E"HThis function has 10 parameters, which is greater than the 7 authorized.(¤±è¸úÿÿÿÿ8Ğ‚¾Ïë1
+cphp:S107‡"GThis function has 9 parameters, which is greater than the 7 authorized.(ˆŒª8Ğ‚¾Ïë1
+iphp:S107§"HThis function has 10 parameters, which is greater than the 7 authorized.(òõçîşÿÿÿÿ8Ğ‚¾Ïë1
+“	php:S1192"LDefine a constant instead of duplicating this literal "Location: /" 6 times.(†®ºÌúÿÿÿÿ8›Š§ë1J$ae7cdac7-e00d-4c27-877e-1f0deaa9b7c0
+	php:S1192U"MDefine a constant instead of duplicating this literal ":houseNumber" 3 times.(ØÙ•’8 „§ë1J$bb4d9738-dc2e-4224-a4f4-58fb7d530965
+	php:S1192+"HDefine a constant instead of duplicating this literal ":userId" 6 times.(ÃãÒëÿÿÿÿÿ8œŠ§ë1J$95f0c054-4274-43f8-8ade-4a1603e10311
+	php:S1192;"GDefine a constant instead of duplicating this literal ":email" 4 times.(ŒŸ¥³üÿÿÿÿ8œŠ§ë1J$ee71dd04-d520-4bf0-8fd5-c7eed72a060c
+	php:S1192T"IDefine a constant instead of duplicating this literal ":address" 3 times.(ôÌùˆıÿÿÿÿ8 „§ë1J$3cd1e661-e6a2-4140-a4d7-e4e1c1cf1453
+	php:S1192S"LDefine a constant instead of duplicating this literal ":postalCode" 3 times.(óŒá8 „§ë1J$c73aff0e-3ac2-45be-b94b-9a2cf54e0d0b
+’	php:S1192P"KDefine a constant instead of duplicating this literal ":firstName" 3 times.(„©šâüÿÿÿÿ8œŠ§ë1J$8313f0a6-9f7e-411d-959e-3e19bb4d0b3f
+	php:S1192R"MDefine a constant instead of duplicating this literal ":phoneNumber" 3 times.(‹ı¦‘8 „§ë1J$dfa4716c-f1e6-4a30-b803-e8a2e1d7f8f9
+‘	php:S1192"JDefine a constant instead of duplicating this literal ":username" 4 times.(ìŠ‘ùÿÿÿÿ8œŠ§ë1J$674a32a1-d13e-4d56-b826-39a199bd142c
+Œ	php:S1192Q"JDefine a constant instead of duplicating this literal ":lastName" 3 times.(¡şñÀ8œŠ§ë1J$316b6498-9322-43f1-8b91-755eae256ff5
+˜	php:S1192"VDefine a constant instead of duplicating this literal "Something went wrong." 5 times.(ûĞŠ8œŠ§ë1J$884569af-aedb-443b-b648-21b142e23c58

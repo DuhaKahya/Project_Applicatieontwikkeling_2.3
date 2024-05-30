@@ -1,0 +1,5 @@
+
+n	php:S1481",Remove this unused "$artist" local variable.(˜„±Ä8Œ¨ûá1J$a8fee02e-17f9-476b-b7ad-d2dd5ca9eb78
+u	php:S1481".Remove this unused "$schedule" local variable.(¸Ü¿€ıÿÿÿÿ8Œ¨ûá1J$c7016b9a-c304-458b-82d4-6dcc4a0ce681
+r	php:S1481"+Remove this unused "$songs" local variable.(òÏÃäûÿÿÿÿ8Œ¨ûá1J$614520a3-cb0e-4d76-802e-bac36b40615e
+˜	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.( Ùòÿÿÿÿÿ8ˆÉï‘â1J$138f75d8-c6ab-4566-96d8-2dccf7dad53e

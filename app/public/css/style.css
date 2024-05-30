@@ -1,0 +1,190 @@
+* {
+    font-family: "Josefin Sans", Verdana, sans-serif;
+}
+
+/* HEADER */
+
+#navigation {
+    margin: 0;
+    padding: 0;
+}
+
+#navigation div{
+    background-color: #40867D;
+    align-items: center;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.navbar-nav a {
+    color: rgb(255, 255, 255);
+    margin: 0 5px;
+    text-decoration: none;
+}
+.navbar-nav a:hover {
+    color: #0084ff;
+}
+
+#shoppingcart {
+    fill: rgb(255, 255, 255);
+    width: 35px;
+    height: 55px;
+    margin-right: 20px;
+}
+#title{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+#title:hover{
+    color: #0084ff;
+}
+#shoppingcart:hover {
+    fill: #0084ff;
+}
+
+#loginbutton {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+#loginbutton:hover {
+    background-color: #0084ff;
+}
+
+/* FOOTER */
+
+#footer div{
+    background-color: #40867D;
+    color: black;
+    padding: 15px;
+}
+
+#footer h3 {
+    color: rgb(255, 255, 255);
+}
+
+#footer p {
+    color: rgb(255, 255, 255);
+}
+
+#footer .social-link {
+    display: block;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+#footer .social-link svg{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+#footer .social-link:hover {
+    color: #0084ff;
+}
+
+#footer hr {
+    border-color: rgb(255, 255, 255);
+}
+
+#footer .footer-pages {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-bottom: 5px; /* Afstand tussen links */
+}
+
+#footer .footer-pages:hover {
+    color: #0084ff; /* Kleur veranderen bij hover */
+}
+
+#footer .download-store {
+    display: flex;
+    flex-direction: column; /* hier de verandering */
+    align-items: center; /* optioneel: om afbeeldingen in het midden uit te lijnen */
+}
+
+.apps {
+    margin-bottom: 15px;
+}
+
+/* LOGIN */
+
+.logincontainer {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    margin: 100px auto; /* Center the container and add margin from the top */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+/* REGISTER */
+
+.registercontainer {
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+
+/* CSS homepage */
+
+.btn-primary {
+    background-color: #40867D;
+    scale: 1.2;
+}
+
+.personalProgramCheckboxes {
+    transform: scale(2, 2) translateY(-40%) translateX(-25%);
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+
+.personalProgramRemoveButton {
+    transform: translateY(-40%) translateX(-50%);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    background-color: transparent;
+    border-color: transparent;
+    color: red;
+}
+
+.main {
+    background-color: #E0E7E9;
+}
+
+.bi-caret-down, .bi-caret-up {
+    transition: transform 0.3s ease-in-out;
+}
+
+.rotate {
+    transform: rotate(180deg);
+}
+
+#caret-icon.rotate {
+    transform: rotate(180deg);
+    transition: transform 0.3s ease;
+}
+
+.btn {
+    scale: 1.2;
+}

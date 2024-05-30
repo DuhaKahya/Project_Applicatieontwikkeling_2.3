@@ -1,0 +1,9 @@
+
+‡	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Ñ¦Êşÿÿÿÿ8“§ûá1J$e1bb7991-c5a0-4a4c-8cfa-2102844cf4ea
+‡	php:S1131,"@Remove the useless trailing whitespaces at the end of this line.(æÀö€øÿÿÿÿ8“§ûá1J$c12c7ec6-38b6-4cc8-a075-5ee0d50f18b7
+kphp:S103)"KSplit this 255 characters long line (which is greater than 120 authorized).(±êğ÷ùÿÿÿÿ8Ú£€†è1
+kphp:S103+"KSplit this 269 characters long line (which is greater than 120 authorized).(Ê½ªıÿÿÿÿ8Ú£€†è1
+fphp:S103."KSplit this 260 characters long line (which is greater than 120 authorized).(ıœÿ8Ú£€†è1
+fphp:S1030"KSplit this 274 characters long line (which is greater than 120 authorized).(ß´‘·8Ú£€†è1
+hphp:S107)"HThis function has 17 parameters, which is greater than the 7 authorized.(±êğ÷ùÿÿÿÿ8Û£€†è1
+cphp:S107."HThis function has 18 parameters, which is greater than the 7 authorized.(ıœÿ8Û£€†è1

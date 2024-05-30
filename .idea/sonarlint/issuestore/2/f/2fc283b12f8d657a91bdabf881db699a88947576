@@ -1,0 +1,40 @@
+
+€	Web:S6825"9aria-hidden="true" must not be set on focusable elements.(¢Ÿ¼°şÿÿÿÿ8ü ûá1J$035643c8-5caf-4fc1-baf1-e8e723b12761
+j	Web:S6851<"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(ù¾æÒşÿÿÿÿ8†—€†è1
+e	Web:S6851J"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(¾Û—Ğ8‡—€†è1
+e	Web:S6851T"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(¢è8‡—€†è1
+j	Web:S6851^"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(Âšû‹úÿÿÿÿ8‡—€†è1
+j	Web:S6851h"IRemove redundant word "image" from the "alt" attribute of your "img" tag.( Æşÿÿÿÿ8‡—€†è1
+‡	php:S1131#"@Remove the useless trailing whitespaces at the end of this line.(öÒ±Õøÿÿÿÿ8Ç¥ûá1J$82fd2287-7ca4-40bd-9b3e-f787235cfa0d
+Œphp:S103"KSplit this 135 characters long line (which is greater than 120 authorized).(”Ñ¥Ö8È¥ûá1J$18baa549-d66d-4a09-b164-1d115655a4ba
+‘php:S103""KSplit this 130 characters long line (which is greater than 120 authorized).(ÚÔäşÿÿÿÿ8È¥ûá1J$9476c83d-0437-480a-8573-bb5d8dfeae2b
+kphp:S103%"KSplit this 129 characters long line (which is greater than 120 authorized).(²ƒ¾ßúÿÿÿÿ8ÙÉÄñâ1
+‘php:S103/"KSplit this 156 characters long line (which is greater than 120 authorized).(Ø‹Ìßùÿÿÿÿ8È¥ûá1J$c1b1a819-d754-4e67-ba7a-b78c3c717ae0
+‘php:S1034"KSplit this 147 characters long line (which is greater than 120 authorized).(¯å…ûÿÿÿÿ8È¥ûá1J$8e24dc3e-7dd3-4572-b662-9f0beb361395
+kphp:S103<"KSplit this 131 characters long line (which is greater than 120 authorized).(ù¾æÒşÿÿÿÿ8ĞŸ€†è1
+fphp:S103>"KSplit this 134 characters long line (which is greater than 120 authorized).(äÆ¾û8ĞŸ€†è1
+fphp:S103J"KSplit this 164 characters long line (which is greater than 120 authorized).(¾Û—Ğ8ĞŸ€†è1
+fphp:S103L"KSplit this 155 characters long line (which is greater than 120 authorized).(üÌ·‰8ĞŸ€†è1
+fphp:S103T"KSplit this 166 characters long line (which is greater than 120 authorized).(¢è8ĞŸ€†è1
+kphp:S103V"KSplit this 155 characters long line (which is greater than 120 authorized).(©ë¨üÿÿÿÿ8ĞŸ€†è1
+kphp:S103^"KSplit this 166 characters long line (which is greater than 120 authorized).(Âšû‹úÿÿÿÿ8ĞŸ€†è1
+kphp:S103`"KSplit this 155 characters long line (which is greater than 120 authorized).(ŸÔÅêıÿÿÿÿ8ĞŸ€†è1
+kphp:S103h"KSplit this 166 characters long line (which is greater than 120 authorized).( Æşÿÿÿÿ8ÑŸ€†è1
+fphp:S103j"KSplit this 155 characters long line (which is greater than 120 authorized).(Ú½µÕ8ÑŸ€†è1
+‘php:S103s"KSplit this 140 characters long line (which is greater than 120 authorized).(†œìøÿÿÿÿ8È¥ûá1J$a25f04d2-2bab-4c73-bd4b-aeeea9679caa
+‹php:S103x"KSplit this 143 characters long line (which is greater than 120 authorized).(Ç×Ï8È¥ûá1J$3a897c18-6b32-4de8-9010-16960ccd04f5
+kphp:S103}"KSplit this 175 characters long line (which is greater than 120 authorized).(¯¿“÷øÿÿÿÿ8áÉÄñâ1
+php:S103‚"KSplit this 141 characters long line (which is greater than 120 authorized).(Á‚î8È¥ûá1J$b7fa05fb-71d1-4baf-88fe-b45a4d659312
+php:S103‡"KSplit this 138 characters long line (which is greater than 120 authorized).(íÒÄß8È¥ûá1J$d3f0414a-2b18-4258-803e-c249aa369253
+gphp:S103Œ"KSplit this 177 characters long line (which is greater than 120 authorized).(©ç§“8ÑŸ€†è1
+lphp:S103‘"KSplit this 170 characters long line (which is greater than 120 authorized).(­ÔÅóùÿÿÿÿ8ÒŸ€†è1
+gphp:S103–"KSplit this 174 characters long line (which is greater than 120 authorized).(¢ÓÂ§8ÒŸ€†è1
+e	php:S1192J"IDefine a constant instead of duplicating this literal "No image" 4 times.(¾Û—Ğ8ÒŸ€†è1
+m	php:S2003"&Replace "include" with "include_once".(¼¼ÕÓıÿÿÿÿ8È¥ûá1J$6e12947b-e3fb-4503-88b7-3fce48edc768
+m	php:S2003"&Replace "include" with "include_once".(´“Èšøÿÿÿÿ8È¥ûá1J$99f9ba84-564b-4fc3-86ad-516eb3972a58
+B	php:S2003"&Replace "include" with "include_once".(‘®çø8ÒŸ€†è1
+n	php:S2003£"&Replace "include" with "include_once".(ÃæòÕøÿÿÿÿ8È¥ûá1J$522fb815-951b-4b9b-bebb-24301cc68df2
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¼¼ÕÓıÿÿÿÿ8‚Æï‘â1J$ea0c23ed-766a-485d-87f9-c5bec3bab3a3
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(´“Èšøÿÿÿÿ8‚Æï‘â1J$6c6dfae1-5d7c-4346-a7aa-f7936dd930e1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(‘®çø8ÓŸ€†è1
+”	php:S4833£"LReplace "include" with namespace import mechanism through the "use" keyword.(ÃæòÕøÿÿÿÿ8‚Æï‘â1J$ae9179d3-0098-418a-8343-72316aefe32d

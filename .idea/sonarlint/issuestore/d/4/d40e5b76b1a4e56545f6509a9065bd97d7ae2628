@@ -1,0 +1,5 @@
+
+‚	php:S1481";Remove this unused "$restaurantDetailPages" local variable.(¼Úëáşÿÿÿÿ8­ªûá1J$3a1228a8-efc6-4646-9717-b51aeb1507a3
+y	php:S1481"2Remove this unused "$yummyDetails" local variable.(¶å…Æúÿÿÿÿ8­ªûá1J$0406591a-4e5c-4b78-a16b-938f7b2f92fd
+~	php:S1481"7Remove this unused "$restaurantDetails" local variable.(‡æ“Âÿÿÿÿÿ8­ªûá1J$19b8de39-9496-463a-ac54-7f9b398442a1
+˜	php:S4833!"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ØûÎÛúÿÿÿÿ8åÔî‘â1J$0a8d7e2f-1fe3-4d2d-99b5-67f76ea66d77

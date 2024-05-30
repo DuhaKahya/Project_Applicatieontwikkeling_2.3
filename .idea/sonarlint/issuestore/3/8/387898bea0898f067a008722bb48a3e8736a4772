@@ -1,0 +1,24 @@
+
+\	php:S1131""@Remove the useless trailing whitespaces at the end of this line.(›˜¯Ú8ë€†è1
+‚	php:S1131y"@Remove the useless trailing whitespaces at the end of this line.(¡ˆ“å8Ä¤ûá1J$4b9970d6-4a02-4531-9727-f116279526bc
+fphp:S103""KSplit this 386 characters long line (which is greater than 120 authorized).(›˜¯Ú8ì€†è1
+fphp:S1030"KSplit this 178 characters long line (which is greater than 120 authorized).(¨È¸Ã8ì€†è1
+Œphp:S1039"KSplit this 171 characters long line (which is greater than 120 authorized).(¶õ’Ô8Ä¤ûá1J$3a06862d-52af-4acd-9e6f-f1e9c2a3ca35
+‘php:S103:"KSplit this 134 characters long line (which is greater than 120 authorized).(œ˜…ùÿÿÿÿ8Ä¤ûá1J$750fe9e1-5029-467f-84b8-65eaa6a15498
+fphp:S103F"KSplit this 135 characters long line (which is greater than 120 authorized).(Íƒª©8ì€†è1
+Œphp:S103L"KSplit this 121 characters long line (which is greater than 120 authorized).(µŞ½™8Ä¤ûá1J$93d9c553-3942-4059-92d9-20b8a1ab9d75
+‘php:S103M"KSplit this 465 characters long line (which is greater than 120 authorized).(¾ñœšûÿÿÿÿ8Ä¤ûá1J$6d3b310c-de5a-47f7-8810-ec9c00b88869
+‹php:S103S"KSplit this 172 characters long line (which is greater than 120 authorized).(êÀÏ'8Ä¤ûá1J$fe1fd560-331a-4ddd-bf0e-93017bfb0d92
+‘php:S103T"KSplit this 393 characters long line (which is greater than 120 authorized).(¨‰µåùÿÿÿÿ8Ä¤ûá1J$c58a7229-fe62-4b9f-876e-a874ed2eb48e
+Œphp:S103\"KSplit this 178 characters long line (which is greater than 120 authorized).(Ïû™ì8Ä¤ûá1J$e06fc7ed-34f5-406b-b498-71d32796b264
+‘php:S103]"KSplit this 306 characters long line (which is greater than 120 authorized).(ä”§€şÿÿÿÿ8Ä¤ûá1J$f5ea2179-9802-46f8-aaa0-d0df5f3daf13
+Œphp:S103c"KSplit this 173 characters long line (which is greater than 120 authorized).(Šáóõ8Ä¤ûá1J$9f740e04-ee9c-4865-b8fd-9a6dd5d8b150
+‘php:S103d"KSplit this 535 characters long line (which is greater than 120 authorized).(©íÃÌüÿÿÿÿ8Ä¤ûá1J$a5e10f4c-c4d5-4823-b3d6-07e6095e5146
+fphp:S103t"KSplit this 170 characters long line (which is greater than 120 authorized).(ŸîÈŸ8í€†è1
+Œphp:S103y"KSplit this 190 characters long line (which is greater than 120 authorized).(¡ˆ“å8Ä¤ûá1J$a9a5cd3a-f8bc-44a2-8074-e21666c7d7a4
+m	php:S2003"&Replace "include" with "include_once".(¼¼ÕÓıÿÿÿÿ8Ä¤ûá1J$b75a23d2-fdaf-4ea7-a0f7-eb9acdd637d5
+m	php:S2003"&Replace "include" with "include_once".(´“Èšøÿÿÿÿ8Ä¤ûá1J$5d99b8c9-437e-493d-a07d-259da3a40e56
+n	php:S2003‹"&Replace "include" with "include_once".(™ÓÅ«ıÿÿÿÿ8Ä¤ûá1J$e63eb70d-e274-4bd6-8df2-3b5659d0a9a4
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¼¼ÕÓıÿÿÿÿ8õÄï‘â1J$8d8521b4-9975-4786-a0ac-38d2b92e5f15
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(´“Èšøÿÿÿÿ8õÄï‘â1J$720f6b42-261a-499b-b2d7-4966eb92f14c
+”	php:S4833‹"LReplace "include" with namespace import mechanism through the "use" keyword.(™ÓÅ«ıÿÿÿÿ8õÄï‘â1J$ef2c538b-337e-4b66-be3b-8b9f83ee0499

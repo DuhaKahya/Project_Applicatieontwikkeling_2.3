@@ -1,0 +1,27 @@
+{
+    "name": "root/app",
+    "description": "Project Applicatieontwikkeling Haarlem Festival",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Remco van der Velde (Rangodemango)"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": ".",
+            "App\\Controllers\\": "./controllers",
+            "App\\Models\\": "./models",
+            "App\\Services\\": "./services",
+            "App\\Repositories\\": "./repositories",
+            "App\\Views\\": "./views"
+        }
+    },
+    "require": {
+        "stripe/stripe-php": "^13.12",
+        "phpmailer/phpmailer": "^6.9",
+      "ext-pdo": "*",
+        "ezyang/htmlpurifier": "^4.17",
+        "fpdf/fpdf": "^1.86"
+    }
+}

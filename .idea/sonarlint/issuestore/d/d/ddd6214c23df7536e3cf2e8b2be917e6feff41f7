@@ -1,0 +1,18 @@
+
+a	php:S1131h"@Remove the useless trailing whitespaces at the end of this line.(‹Ê˜¤şÿÿÿÿ8ûÙ§ë1
+a	php:S1131}"@Remove the useless trailing whitespaces at the end of this line.(›Úî³şÿÿÿÿ8üÙ§ë1
+]	php:S1131‡"@Remove the useless trailing whitespaces at the end of this line.(¨Ñô¯8şÙ§ë1
+kphp:S103 "KSplit this 126 characters long line (which is greater than 120 authorized).(Êìïáúÿÿÿÿ8şÙ§ë1
+fphp:S103("KSplit this 131 characters long line (which is greater than 120 authorized).(ùéº8±€¾Ïë1
+kphp:S103-"KSplit this 121 characters long line (which is greater than 120 authorized).(é“Şüûÿÿÿÿ8şÙ§ë1
+ephp:S103."KSplit this 211 characters long line (which is greater than 120 authorized).(§I8şÙ§ë1
+fphp:S1033"KSplit this 131 characters long line (which is greater than 120 authorized).(ùéº8±€¾Ïë1
+fphp:S103T"KSplit this 133 characters long line (which is greater than 120 authorized).(İ®š8şÙ§ë1
+fphp:S103Y"KSplit this 122 characters long line (which is greater than 120 authorized).(ÈøÓ8şÙ§ë1
+kphp:S103^"KSplit this 137 characters long line (which is greater than 120 authorized).(ƒĞ²üÿÿÿÿ8±€¾Ïë1
+’php:S103¾"KSplit this 125 characters long line (which is greater than 120 authorized).(øÑ·Ìùÿÿÿÿ8ÚÕ»è1J$657e2d9c-1de8-4661-a04a-fe6fc4e21bc2
+php:S103À"KSplit this 126 characters long line (which is greater than 120 authorized).(ÜØ´û8ÚÕ»è1J$7da581b0-8496-471c-a180-cdb67d3a6695
+’php:S103Á"KSplit this 128 characters long line (which is greater than 120 authorized).(—ğéøÿÿÿÿ8ÚÕ»è1J$30660a67-d2cd-4fb5-a9ec-80a60517c5db
+’php:S103Ä"KSplit this 124 characters long line (which is greater than 120 authorized).(ø“­ïùÿÿÿÿ8ÚÕ»è1J$27065d68-f465-4a2a-96d5-4077563a6c26
+p	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Õ•Ÿ„8ÿÙ§ë1
+m	php:S48339"QReplace "require_once" with namespace import mechanism through the "use" keyword.(šÖ‚8ÿÙ§ë1

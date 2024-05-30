@@ -1,0 +1,7 @@
+
+php:S103®"KSplit this 125 characters long line (which is greater than 120 authorized).(ü…š³8ôŠ§ë1J$81ea1995-27d9-4b4d-8ab7-7dcf8807aba4
+php:S103é"KSplit this 138 characters long line (which is greater than 120 authorized).(Ñ—Í±8±–á¦ë1J$44ff3b4d-337f-45aa-bfb5-e7402d153ca1
+x	php:S1481&"6Remove this unused "$entityProperties" local variable.(ƒÜ“Å8ÃªÊì1J$93668cc8-f431-464a-af7c-68c23acf4797
+x	php:S1481¢"0Remove this unused "$entityData" local variable.(«§”áıÿÿÿÿ8õŠ§ë1J$4df34dcc-ee7c-44f5-99ca-c59d48ccd526
+r	php:S1481®"/Remove this unused "$actionUrl" local variable.(ü…š³8õŠ§ë1J$4dc06a5b-93d8-496a-b091-d8684f1b5fc4
+®	php:S1448"lClass "ManageController" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(ìË¡8£šÒ¦ë1J$321951d6-58f3-4790-97a6-e99063e755d7

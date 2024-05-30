@@ -1,0 +1,34 @@
+
+Z	Web:S68251"9aria-hidden="true" must not be set on focusable elements.(† ®ùÿÿÿÿ8’óîàç1
+J	Web:S6853H"/A form label must be associated with a control.(…Å¶x8 ö½Ïë1
+P	Web:S6853N"/A form label must be associated with a control.(ìæŸøÿÿÿÿ8¢—€†è1
+P	Web:S6853g"/A form label must be associated with a control.(Ñø’ûÿÿÿÿ8¢—€†è1
+P	Web:S6853o"/A form label must be associated with a control.(ìæŸøÿÿÿÿ8¢—€†è1
+L	Web:S6853Œ"/A form label must be associated with a control.(ÕÀì³8¢—€†è1
+Q	Web:S6853”"/A form label must be associated with a control.(„Âò§üÿÿÿÿ8¢—€†è1
+Q	Web:S6853œ"/A form label must be associated with a control.(ìæŸøÿÿÿÿ8¢—€†è1
+kphp:S103?"KSplit this 255 characters long line (which is greater than 120 authorized).(Î™ã§ıÿÿÿÿ8ø €†è1
+kphp:S103D"KSplit this 122 characters long line (which is greater than 120 authorized).(ÂáéÉøÿÿÿÿ8Ãóîàç1
+kphp:S103J"KSplit this 440 characters long line (which is greater than 120 authorized).(ª‰ íıÿÿÿÿ8«ÿ½Ïë1
+fphp:S103P"KSplit this 191 characters long line (which is greater than 120 authorized).(«Áù8«ÿ½Ïë1
+kphp:S103T"KSplit this 244 characters long line (which is greater than 120 authorized).(úØ°şÿÿÿÿ8ø €†è1
+kphp:S103]"KSplit this 261 characters long line (which is greater than 120 authorized).(ÉÌö ùÿÿÿÿ8ø €†è1
+fphp:S103i"KSplit this 450 characters long line (which is greater than 120 authorized).(˜Ìµ8•İ§ë1
+kphp:S103p"KSplit this 237 characters long line (which is greater than 120 authorized).(öìßúÿÿÿÿ8•İ§ë1
+fphp:S103t"KSplit this 247 characters long line (which is greater than 120 authorized).(¡ò¾û8ù €†è1
+fphp:S103}"KSplit this 268 characters long line (which is greater than 120 authorized).(ÆÒ´·8ù €†è1
+gphp:S103‚"KSplit this 149 characters long line (which is greater than 120 authorized).(Ù§¥ô8Äóîàç1
+lphp:S103„"KSplit this 141 characters long line (which is greater than 120 authorized).(±Ñ±ºüÿÿÿÿ8Äóîàç1
+lphp:S103‡"KSplit this 140 characters long line (which is greater than 120 authorized).(€ŒÜÿÿÿÿÿ8Äóîàç1
+lphp:S103"KSplit this 438 characters long line (which is greater than 120 authorized).(¿Áëşÿÿÿÿ8•İ§ë1
+lphp:S103–"KSplit this 443 characters long line (which is greater than 120 authorized).(ƒ««òøÿÿÿÿ8–İ§ë1
+fphp:S103"KSplit this 152 characters long line (which is greater than 120 authorized).(ËØµ28ú €†è1
+lphp:S103¡"KSplit this 246 characters long line (which is greater than 120 authorized).(Ù‘ïÆùÿÿÿÿ8ú €†è1
+:php:S113"'Add a new line at the end of this file.8Äóîàç1
+Q	php:S1109¥"/Move this closing curly brace to the next line.(Ôë´şÿÿÿÿ8Åóîàç1
+m	php:S2003"&Replace "include" with "include_once".(¼¼ÕÓıÿÿÿÿ8†¦ûá1J$17174206-ebfb-4b54-ab83-469da7d263c9
+m	php:S2003"&Replace "include" with "include_once".(´“Èšøÿÿÿÿ8†¦ûá1J$a116b941-e0a0-4a00-b761-e62272f0f024
+n	php:S2003µ"&Replace "include" with "include_once".(™ÓÅ«ıÿÿÿÿ8†¦ûá1J$1a2381ba-3dc8-471c-bf08-8cd2ffc782e0
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¼¼ÕÓıÿÿÿÿ8ÖÆï‘â1J$e94c3b53-13e9-47c5-8cc3-9a55a583613f
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(´“Èšøÿÿÿÿ8ÖÆï‘â1J$db8acd5a-60db-45f2-a7ca-9d8301cd360d
+”	php:S4833µ"LReplace "include" with namespace import mechanism through the "use" keyword.(™ÓÅ«ıÿÿÿÿ8ÖÆï‘â1J$ea9a0b16-c5d4-4889-aec5-b20bca1589d1

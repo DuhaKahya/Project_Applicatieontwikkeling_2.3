@@ -1,0 +1,12 @@
+
+‹	php:S1784
+"DExplicitly mention the visibility of this constructor "__construct".(‡¸Úœùÿÿÿÿ8¶¨ûá1J$637b6379-c34b-4519-b9fd-45fd6125d82a
+`php:S113"'Add a new line at the end of this file.8¶¨ûá1J$b005e5da-473c-4c57-b7db-fcb5af8283a2
+n	php:S1192"SDefine a constant instead of duplicating this literal "Location: /history" 3 times.(ŠßÄ=8ş¥€†è1
+Y	php:S1481*"=Remove this unused "$displayableHistoryTours" local variable.(‘ÃÌ8ÿ¥€†è1
+U	php:S1481+"9Remove this unused "$encodedHistoryTours" local variable.(ÇÃçÃ8ÿ¥€†è1
+R	php:S1481"6Remove this unused "$historyLocations" local variable.(ø»ö8ÿ¥€†è1
+Y	php:S1481"=Remove this unused "$displayableHistoryTours" local variable.(‘ÃÌ8ÿ¥€†è1
+“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¦úçğ8ëÕî‘â1J$254b92e5-afe2-40b3-a58d-384e12860850
+r	php:S4833#"QReplace "require_once" with namespace import mechanism through the "use" keyword.(óşÁ¿ıÿÿÿÿ8Ø—à–â1
+l	php:S4833,"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ø¾–8ÿ¥€†è1

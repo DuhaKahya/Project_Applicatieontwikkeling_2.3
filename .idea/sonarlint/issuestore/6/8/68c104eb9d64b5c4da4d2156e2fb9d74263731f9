@@ -1,0 +1,21 @@
+
+zWeb:TableWithoutCaptionCheck" Add a description to this table.(Øü‡çüÿÿÿÿ8ø ûá1J$67d8a95f-6d8e-409b-97b2-dbd79925fabe
+UWeb:AvoidCommentedOutCodeCheck<"Remove this commented out code.(€ºÁ‡ùÿÿÿÿ8ß±Çä1
+‘php:S103"KSplit this 137 characters long line (which is greater than 120 authorized).(¸’…¨ÿÿÿÿÿ8¦¥ûá1J$c5b1d061-73f3-4772-a534-1094ea1516e6
+kphp:S103"KSplit this 123 characters long line (which is greater than 120 authorized).(Û±ÙÓÿÿÿÿÿ8Ÿ€†è1
+kphp:S103+"KSplit this 128 characters long line (which is greater than 120 authorized).(ÛşÉ«ÿÿÿÿÿ8Ÿ€†è1
+‹php:S103,"KSplit this 224 characters long line (which is greater than 120 authorized).(º«ú8¦¥ûá1J$9d91b556-9aba-46ff-9fc1-046162b9225f
+‘php:S1032"KSplit this 141 characters long line (which is greater than 120 authorized).(Á¡‚Òÿÿÿÿÿ8¦¥ûá1J$0cf58d7c-9c90-4420-8c47-9d8b6abdcfe3
+Œphp:S1039"KSplit this 174 characters long line (which is greater than 120 authorized).(‰ÆèÑ8¦¥ûá1J$3b1a77f5-c12f-4434-8eb4-e4d3e6509753
+fphp:S103;"KSplit this 160 characters long line (which is greater than 120 authorized).(Á™ÁÌ8ßß±Çä1
+kphp:S103<"KSplit this 191 characters long line (which is greater than 120 authorized).(€ºÁ‡ùÿÿÿÿ8àß±Çä1
+kphp:S103K"KSplit this 137 characters long line (which is greater than 120 authorized).(¸’…¨ÿÿÿÿÿ8ƒÌ—Üç1
+kphp:S103L"KSplit this 123 characters long line (which is greater than 120 authorized).(Û±ÙÓÿÿÿÿÿ8‚Ÿ€†è1
+m	php:S2003"&Replace "include" with "include_once".(¼¼ÕÓıÿÿÿÿ8¦¥ûá1J$e733efe5-1c2b-4bb4-a7e1-56f722c3b472
+m	php:S2003"&Replace "include" with "include_once".(´“Èšøÿÿÿÿ8¦¥ûá1J$54ecb38c-20bb-467b-8f5c-f6ee628eff1c
+B	php:S2003"&Replace "include" with "include_once".(‘®çø8‚Ÿ€†è1
+m	php:S2003X"&Replace "include" with "include_once".(™ÓÅ«ıÿÿÿÿ8¦¥ûá1J$a5bb0d8c-2b4e-48fa-821b-683c2c530c29
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¼¼ÕÓıÿÿÿÿ8ÙÅï‘â1J$74d9b76e-a369-4df9-9e4f-9263567c5d35
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(´“Èšøÿÿÿÿ8ÙÅï‘â1J$dff4078e-ace7-46f8-a917-04caaa587d7c
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(‘®çø8‚Ÿ€†è1
+“	php:S4833X"LReplace "include" with namespace import mechanism through the "use" keyword.(™ÓÅ«ıÿÿÿÿ8ÙÅï‘â1J$f378f2fb-77be-42b4-be4f-e0afd04dc63f

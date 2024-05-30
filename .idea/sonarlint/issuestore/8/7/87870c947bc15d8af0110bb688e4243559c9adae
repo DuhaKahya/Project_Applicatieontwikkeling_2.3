@@ -1,0 +1,9 @@
+
+kphp:S103+"KSplit this 130 characters long line (which is greater than 120 authorized).(ŠÜÎüÿÿÿÿ8± €†è1
+`php:S113"'Add a new line at the end of this file.8æ¥ûá1J$6cb3fac2-9931-4039-b7f8-1ed10f8bf74f
+m	php:S2003"&Replace "include" with "include_once".(¼¼ÕÓıÿÿÿÿ8æ¥ûá1J$eca7c61b-e73a-4ac8-bd32-a3b0c1e52c34
+m	php:S2003"&Replace "include" with "include_once".(´“Èšøÿÿÿÿ8æ¥ûá1J$924e52c5-8f9c-4829-9a0a-5669fdf71513
+G	php:S2003/"&Replace "include" with "include_once".(ÃæòÕøÿÿÿÿ8± €†è1
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¼¼ÕÓıÿÿÿÿ8°Æï‘â1J$4c3ff821-960f-4b42-9e68-d065f1ea8d5f
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(´“Èšøÿÿÿÿ8°Æï‘â1J$fd8706a1-9c25-49f2-8ede-41875d7a6649
+m	php:S4833/"LReplace "include" with namespace import mechanism through the "use" keyword.(ÃæòÕøÿÿÿÿ8² €†è1

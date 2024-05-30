@@ -1,0 +1,79 @@
+
+ƒ	php:S1131à"@Remove the useless trailing whitespaces at the end of this line.(¯ûØ8ğ–à–â1J$13a426a6-c267-4433-bf1f-e7a3be136105
+Œphp:S103K"KSplit this 158 characters long line (which is greater than 120 authorized).(¿ãöÛ8¦Ü§ë1J$3d602d38-cfba-40f7-923a-b561eedac1b3
+Œphp:S103n"KSplit this 150 characters long line (which is greater than 120 authorized).(‘‡‹Ê8¦Ü§ë1J$f0355283-b9bc-4f30-9322-5c43115ce8e1
+php:S103ª"KSplit this 138 characters long line (which is greater than 120 authorized).(‡òÏ©8ºˆØòâ1J$7e6893f9-c215-4ce5-ba38-2703e080a5cc
+php:S103á"KSplit this 143 characters long line (which is greater than 120 authorized).(ò ¶ˆ8ºˆØòâ1J$96b31e9f-1fa0-4b5f-a4f2-de1af7645661
+‹php:S103™"KSplit this 125 characters long line (which is greater than 120 authorized).(Êø8§µÒë1J$9945a911-3d54-418a-98ad-d87c84fe666b
+php:S103"KSplit this 263 characters long line (which is greater than 120 authorized).(ÍÈ¶Ï8ñ–à–â1J$eb762664-d488-43d1-bc78-d65c634af830
+’php:S103Ò"KSplit this 282 characters long line (which is greater than 120 authorized).(à€Š…şÿÿÿÿ8ñ–à–â1J$0a25de34-08ae-4c90-aff5-a5855b3546ac
+’php:S103é"KSplit this 151 characters long line (which is greater than 120 authorized).(ÿØËüÿÿÿÿ8ñşåÜç1J$a8954a3d-b52c-4e68-b2ea-bff7c9fde49a
+Œphp:S103ò"KSplit this 150 characters long line (which is greater than 120 authorized).(üî§D8ñşåÜç1J$f721aaaa-edc0-47c4-9dcb-f2a96bf117fa
+’php:S103™"KSplit this 162 characters long line (which is greater than 120 authorized).(ÅË‹ùÿÿÿÿ8òşåÜç1J$b2640d69-4078-479c-b3ab-76ea04493735
+’php:S103±"KSplit this 125 characters long line (which is greater than 120 authorized).(İÇÜùÿÿÿÿ8±Ãµè1J$349f9532-3724-478b-9546-704dec600e79
+’php:S103â"KSplit this 125 characters long line (which is greater than 120 authorized).(İÇÜùÿÿÿÿ8²Ãµè1J$8ae5fc28-b437-48e3-848c-10cf2b7c3ff3
+`php:S113"'Add a new line at the end of this file.8æ©ûá1J$ab9bc92e-361c-4899-860a-f8d7d86e3087
+œ	php:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(·¢ûışÿÿÿÿ8ÄˆØòâ1J$c78bab7c-3def-41ad-a0f9-5a5b1535d4cb
+—	php:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷±€Ã8³Ãµè1J$cb90cf4a-7263-4b47-a374-1a180bc50f47
+ª	php:S1192…"bDefine a constant instead of duplicating this literal "Location: /dashboard/historyTours" 3 times.(öı•²úÿÿÿÿ8ÁŒÚÂë1J$5ada8fe2-c638-402f-b8a2-66f849ed7ce1
+®	php:S1192«"fDefine a constant instead of duplicating this literal "Location: /dashboard/historyLocations" 3 times.(„úºüÿÿÿÿ8ó–à–â1J$2e19e175-9d52-47b2-85a6-73faa28e3b66
+¤	php:S1192"aDefine a constant instead of duplicating this literal "Location: /dashboard/restaurants" 3 times.(Ÿ¯¿·8ó–à–â1J$99595f5f-3125-495f-abe8-829caabf3627
+²	php:S1192Á"oDefine a constant instead of duplicating this literal "Location: /dashboard/historyLocations_edit?id=" 3 times.(ò˜­¸8ÍˆØòâ1J$ea688b8a-3851-4600-837f-1b029b9a162b
+ª	php:S1192ó"bDefine a constant instead of duplicating this literal "Location: /dashboard/reservations" 3 times.(çŠ€Âıÿÿÿÿ8ç©ûá1J$f572c037-cf3e-449b-bb22-877e95e955b8
+«	php:S1192š"hDefine a constant instead of duplicating this literal "Location: /dashboard/restaurantsessions" 3 times.(àÉâß8ç©ûá1J$0fdcedf3-0f9e-49ab-bb7a-c2db44f49cda
+	php:S1192L"[Define a constant instead of duplicating this literal "Location: /dashboard/users" 3 times.(×¿Ğº8ó–à–â1J$fca17c68-998c-4bf0-b688-d53ca98f47f0
+r	php:S1481-"+Remove this unused "$users" local variable.(¬È½®øÿÿÿÿ8ô–à–â1J$60e85a57-015e-4ab7-b566-a452215fc5fd
+ƒ	php:S1481Ú";Remove this unused "$restaurantDetailPages" local variable.(¼Úëáşÿÿÿÿ8ô–à–â1J$ebdcedc9-806e-45d1-b96c-08a8107761b7
+z	php:S1481Û"2Remove this unused "$specialities" local variable.(ù°Ããùÿÿÿÿ8ô–à–â1J$10185e87-92e5-4953-9dd8-f551f1ac386b
+u	php:S1481ó"2Remove this unused "$historyTours" local variable.(©å³Æ8ó–à–â1J$0f6b3a22-1b38-41e1-b680-8827d21f0501
+m	php:S1481V"+Remove this unused "$roles" local variable.(âó‰½8ô–à–â1J$47ffffda-b084-4ce8-9af0-f062c51881d1
+t	php:S1481Í"1Remove this unused "$restaurants" local variable.(Õ­ª¢8ç©ûá1J$9c2e8ded-c4f7-42f8-9022-fd8c0668fda1
+q	php:S1481Î".Remove this unused "$sessions" local variable.(¶¨…À8ç©ûá1J$ac41caac-d598-4e22-9a31-ce1d4fd39f65
+x	php:S1481Ï"5Remove this unused "$reservationDays" local variable.(¦§—î8è©ûá1J$25805797-548e-4afd-8ff1-6da982cf1d8b
+s	php:S1481Ğ"+Remove this unused "$users" local variable.(¬È½®øÿÿÿÿ8÷şåÜç1J$503a5b77-9386-4310-afc2-cc8842eaea25
+{	php:S1481¤"3Remove this unused "$editedSession" local variable.(ÛÌ–‚ùÿÿÿÿ8è©ûá1J$9e798772-66f9-4440-a8e3-14824cfdd800
+z	php:S1481"7Remove this unused "$editedHistoryTour" local variable.(¬äï¬8ÃŒÚÂë1J$c4f50458-cad1-4fc0-9c2c-aac779828bc0
+q	php:S1481"/Remove this unused "$languages" local variable.(¾•ïu8¥şÕÂë1J$7822c300-43e5-4d6a-92fb-49cf5245f994
+y	php:S1481•"6Remove this unused "$historyLocations" local variable.(ø»ö8ô–à–â1J$fdb8d5d0-0995-4ab7-bf79-ad148a1d1201
+q	php:S1481„".Remove this unused "$sessions" local variable.(¶¨…À8è©ûá1J$8eb9fc09-b069-402b-9240-ec1a86089c4f
+q	php:S1481ú"/Remove this unused "$languages" local variable.(¾•ïu8ÆŒÚÂë1J$709e3380-90e1-4df0-bfa9-bc08ee689249
+y	php:S1481ı"7Remove this unused "$editedReservation" local variable.(Ş…ªT8ç©ûá1J$c1047717-72d5-48ec-b9f3-80e14f763b9e
+t	php:S1481ÿ"1Remove this unused "$restaurants" local variable.(Õ­ª¢8ç©ûá1J$d0b5e675-7dab-4f8f-a1e6-4bab5e14c157
+q	php:S1481€".Remove this unused "$sessions" local variable.(¶¨…À8ç©ûá1J$57899baf-1c8b-4679-ad96-2a843a346c5c
+x	php:S1481"5Remove this unused "$reservationDays" local variable.(¦§—î8ç©ûá1J$0c3dbcc1-7b26-49ae-b81b-c1d168f2adfd
+s	php:S1481‚"+Remove this unused "$users" local variable.(¬È½®øÿÿÿÿ8öşåÜç1J$6786bcf7-657e-4db8-a6f7-7cc7e8f877b3
+m	php:S14814"+Remove this unused "$roles" local variable.(âó‰½8ó–à–â1J$0f33bfb4-c05d-41b3-9cd4-710b68b978d9
+z	php:S1481À"2Remove this unused "$reservations" local variable.(ù—Œåıÿÿÿÿ8ç©ûá1J$6fa9bed0-97f3-486b-8468-488c8c500424
+t	php:S1481Á"1Remove this unused "$restaurants" local variable.(Õ­ª¢8ô–à–â1J$6369f161-594e-4e58-b735-84b1229fc8cd
+q	php:S1481Â".Remove this unused "$sessions" local variable.(¶¨…À8ç©ûá1J$406b09b3-6963-4c57-a463-9c7ea4ebf4cc
+x	php:S1481Ã"5Remove this unused "$reservationDays" local variable.(¦§—î8ç©ûá1J$6c61a342-8fe2-4ebf-ba34-a2c085f75f14
+s	php:S1481Ä"+Remove this unused "$users" local variable.(¬È½®øÿÿÿÿ8öşåÜç1J$2ba41266-40e4-4419-9901-13ae42188b01
+t	php:S1481Ò"1Remove this unused "$restaurants" local variable.(Õ­ª¢8è©ûá1J$ed086d9a-c34a-440c-b3b5-4c433eff70e6
+z	php:S1481Ó"2Remove this unused "$specialities" local variable.(ù°Ããùÿÿÿÿ8ô–à–â1J$a4ffbc74-5e28-4860-bba1-583758f020c0
+ƒ	php:S1481š";Remove this unused "$restaurantDetailPages" local variable.(¼Úëáşÿÿÿÿ8ô–à–â1J$a2086cfc-0533-41aa-858f-160424a6fd8c
+z	php:S1481œ"2Remove this unused "$specialities" local variable.(ù°Ããùÿÿÿÿ8õ–à–â1J$a32182f0-72b9-492a-b631-af9bcc19c665
+°	php:S1448"oClass "DashBoardController" has 33 methods, which is greater than 20 authorized. Split it into smaller classes.(áı 8õ–à–â1J$d8377cb2-ee55-46de-a20e-06f25f25b4bf
+†	php:S1854U"?Remove this useless assignment to local variable '$editedUser'.(’ïÿÿşÿÿÿÿ8õ–à–â1J$4ab50e18-09d9-447a-ac6c-f4abbf97245b
+’	php:S1854³"JRemove this useless assignment to local variable '$editedHistoryLocation'.(ŸËœÿüÿÿÿÿ8õ–à–â1J$6ece714d-d7f5-491e-97d5-46f4522ea24f
+ˆ	php:S1854›"ERemove this useless assignment to local variable '$editedRestaurant'.(™‘Ÿ¤8õ–à–â1J$115c00fc-848d-4b27-9b65-8ad2474e2678
+“	php:S4833&"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¤ÔÕÿ8õÙæ‘â1J$0628f274-b729-437a-891c-7189c6dfa2e1
+“	php:S4833."QReplace "require_once" with namespace import mechanism through the "use" keyword.(ù8õÙæ‘â1J$2cdbe51a-4f25-4bc7-9dae-846dfd2a6aa5
+“	php:S48335"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ëœş¥8õÙæ‘â1J$288a26bd-2916-402c-8feb-38754cd964cb
+˜	php:S4833W"QReplace "require_once" with namespace import mechanism through the "use" keyword.(çö·Øüÿÿÿÿ8õÙæ‘â1J$b73775a3-4bbd-4c1b-aff0-d4d9807821c0
+™	php:S4833–"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Äçõ£ÿÿÿÿÿ8õÙæ‘â1J$c849e1fd-ce96-41f6-9310-55aae3bcd140
+”	php:S4833œ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ã‰ Î8õÙæ‘â1J$9bdfe2a7-07bf-4971-bc5e-a18ca77fe335
+™	php:S4833´"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Û”©«üÿÿÿÿ8õ–à–â1J$ef9d28fb-289e-409a-8e5e-eb2223765957
+™	php:S4833ô"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÕçŞçûÿÿÿÿ8õ–à–â1J$65fa6a6f-9e1f-4c26-8700-596db61fae82
+™	php:S4833û"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ŠŠ’Éüÿÿÿÿ8õ–à–â1J$3b358849-d63a-4537-8545-0a0b93db0cbb
+”	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ò‹…’8ö–à–â1J$08a4989a-b6a5-48be-8c97-f63ce96a2d43
+™	php:S4833Ô"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Æ¯’øÿÿÿÿ8ö–à–â1J$32471cf3-9ab1-44ec-8d3a-5c4316756680
+”	php:S4833İ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¿È¸8ö–à–â1J$1af3d4aa-9a8f-47a3-ac13-4e965fadee1a
+™	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(½‹¥Œûÿÿÿÿ8ö–à–â1J$808509be-6bdd-4703-90a1-fe41bddb1920
+™	php:S4833†"QReplace "require_once" with namespace import mechanism through the "use" keyword.(©¤€Îşÿÿÿÿ8ö–à–â1J$42221517-9030-4b70-87c8-772633280ada
+”	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ıáÍØ8ö–à–â1J$4cce4167-7f8a-4e4e-85af-2446287fd97c
+™	php:S4833¦"QReplace "require_once" with namespace import mechanism through the "use" keyword.(á±ªƒúÿÿÿÿ8ö–à–â1J$e8658295-113b-4304-b94a-e6eeeec04bbd
+™	php:S4833Æ"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ª±–Äÿÿÿÿÿ8ö–à–â1J$211e8a3e-7d36-4c39-8030-3ff4bd1819b2
+™	php:S4833Ò"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ªóäùÿÿÿÿ8¸Ãµè1J$675d5982-dcf6-41c2-9bb7-00bbcc463582
+™	php:S4833„"QReplace "require_once" with namespace import mechanism through the "use" keyword.(–’İØúÿÿÿÿ8¨şÕÂë1J$4c41d2ec-2d17-4ab2-b4c1-c426e3cf9b94
+”	php:S4833å"QReplace "require_once" with namespace import mechanism through the "use" keyword.(¹şÂÖ8ËŒÚÂë1J$b028e643-87d1-4fde-b644-7ac40e6f7901
+yphp:S131Â"7Add a "case default" clause to this "switch" statement.(¯É‚8¸Ãµè1J$e6f880d9-5f40-4865-9b4d-f90b8a20d7b7

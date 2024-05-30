@@ -1,0 +1,7 @@
+
+kphp:S103<"KSplit this 123 characters long line (which is greater than 120 authorized).(‰ú¼íùÿÿÿÿ8ùÿ½Ïë1
+kphp:S103@"KSplit this 147 characters long line (which is greater than 120 authorized).(ÿØËüÿÿÿÿ8ùÿ½Ïë1
+‘php:S103X"KSplit this 156 characters long line (which is greater than 120 authorized).(ž•˜†úÿÿÿÿ8Šªûá1J$a886b15b-4d38-4db5-bfcc-04a4400bbb62
+z	php:S1481"8Remove this unused "$restaurantSessions" local variable.(Ö‚ÚÌ8Šªûá1J$3ad6b19d-c555-4924-8b2e-b7daa96e0c0e
+w	php:S1481"5Remove this unused "$reservationDays" local variable.(¦§—î8Šªûá1J$a452ff19-5aa8-419c-ada7-e3461df0d2fd
+˜	php:S4833 "QReplace "require_once" with namespace import mechanism through the "use" keyword.(¬Òàáûÿÿÿÿ8“ûÑ·ä1J$cc127013-6fac-4ea5-ac99-9ca386cb90fa

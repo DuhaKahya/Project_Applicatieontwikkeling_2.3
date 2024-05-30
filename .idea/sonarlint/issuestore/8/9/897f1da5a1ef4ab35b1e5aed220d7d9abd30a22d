@@ -1,0 +1,14 @@
+
+‘php:S103!"KSplit this 130 characters long line (which is greater than 120 authorized).(ÚÔäşÿÿÿÿ8Ş¥ûá1J$6220650c-1f5b-4cfc-95bd-f3814d9bb460
+kphp:S103W"KSplit this 129 characters long line (which is greater than 120 authorized).(ó£ãîÿÿÿÿÿ8ûŸ€†è1
+fphp:S103f"KSplit this 126 characters long line (which is greater than 120 authorized).(ê†šˆ8ûŸ€†è1
+ephp:S103k"KSplit this 124 characters long line (which is greater than 120 authorized).(ÓÙ²o8üŸ€†è1
+fphp:S103p"KSplit this 124 characters long line (which is greater than 120 authorized).(¾»…”8üŸ€†è1
+m	php:S2003"&Replace "include" with "include_once".(¼¼ÕÓıÿÿÿÿ8Ş¥ûá1J$d4b73eaa-ff21-4509-ac8b-d9d2997eaf14
+m	php:S2003"&Replace "include" with "include_once".(´“Èšøÿÿÿÿ8Ş¥ûá1J$fd89ec3c-1818-4c56-9a9c-4640208d76a7
+B	php:S2003"&Replace "include" with "include_once".(‘®çø8üŸ€†è1
+G	php:S2003"&Replace "include" with "include_once".(™ÓÅ«ıÿÿÿÿ8üŸ€†è1
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¼¼ÕÓıÿÿÿÿ8¥Æï‘â1J$23bc5c28-3382-46ae-9064-0dac1ae734ce
+“	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(´“Èšøÿÿÿÿ8¥Æï‘â1J$9dd899f2-f2d8-4959-a4eb-c98f66b60739
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(‘®çø8üŸ€†è1
+m	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(™ÓÅ«ıÿÿÿÿ8üŸ€†è1

@@ -1,0 +1,4 @@
+
+s	php:S1481"1Remove this unused "$restaurants" local variable.(Õ­ª¢8‡¨ûá1J$9dab2466-152b-4065-9ebe-ef65b2fa5be7
+y	php:S1481"2Remove this unused "$specialities" local variable.(ù°Ããùÿÿÿÿ8‡¨ûá1J$2a3fa8d4-345a-4a09-b79e-9ccfdc229a84
+“	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(å‡áØ8ÚÔî‘â1J$c3df78ac-e381-494e-bd86-f67d67782462
